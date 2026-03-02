@@ -1,0 +1,7 @@
+DataSets/
+chroma_db/
+mlruns/
+mlruns.db
+__pycache__/
+.env
+*.pyc
